@@ -1,2 +1,2 @@
 # MyFirstRepository
-every is find.
+everything is find.
