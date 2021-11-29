@@ -1,2 +1,2 @@
 # MyFirstRepository
-My first time.
+My first repository in github.
